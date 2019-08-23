@@ -1,0 +1,8 @@
+uploads/
+.env
+node_modules/
+package-lock.json
+karma.conf.js
+yarn.lock
+.vscode/
+npm-debug.log
